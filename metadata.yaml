@@ -1,4 +1,4 @@
-name: 美女集合 # 这是你的插件的唯一识别名。
+name: astrbot_plugin_beautiful_giri # 这是你的插件的唯一识别名。
 desc: 这是 美女集合 支持关键词回复。 # 插件简短描述
 help: 输入 /黑丝 具体请移步查看行为。
 version: v1.1.1 # 插件版本号。格式：v1.1.1 或者 v1.1
